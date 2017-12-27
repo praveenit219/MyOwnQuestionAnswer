@@ -1,4 +1,15 @@
-# Faqapp
+# MyOwnQuestionAnswer
+
+A simple application with a question and answer  to use 
+•	Components
+•	Services
+•	Models
+•	Forms
+•	Events
+•	Localstorage -> which can be a placeholder to use backend like database
+•	Integration of multiple components
+
+Disclaimer: This project is to just try and learn using angular, the purpose is only to code using angular4 at beginner level. 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.0.
 
